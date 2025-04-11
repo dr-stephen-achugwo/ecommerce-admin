@@ -1,0 +1,29 @@
+# E-COMMERCE WEBSITE ADMIN PANEL CODE HERE
+{
+    "started-on" : "22-nov-2024",
+    "deployed-on" : "",
+    "finished-on" : "",
+    "target-to-finish-on" : "20-dec-2024"
+}
+
+TECH_AND_TOOLS_USED = [ REACT.JS, NEXT.JS, MONGODB, TAILWIND, STYLED COMPONENTS, NEXTAUTH.JS, GOOGLE CLOUD CONSOLE, MULTIPARTY, REACT-SWEETALERT2, REACT-SPINNERS, REACT-SORTABLEJS FIREBASE ]
+
+# THINGS I AM LEARNING WHILE MAKING THIS PROJECT
+1. NEXTAUTH - i didn't knew anything about this
+2. Google cloud console - i didn't learned anything about this but still using it 
+3. handling API req/res directly from Network tab of browser dev tools
+
+
+NOW:
+1. add close icon on product form
+2. comment all console.log
+3. add coments on all files
+4. no products to display message but loader while products gets loaded
+5. responsive
+6. images
+7. hosting
+8. LOGO AND FAVICON
+9. README.MD EDIT
+
+
+
